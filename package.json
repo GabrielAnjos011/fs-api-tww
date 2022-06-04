@@ -5,10 +5,10 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node api/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gabriel Garcia",
   "license": "ISC",
   "dependencies": {
     "@koa/cors": "^3.3.0",
